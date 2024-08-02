@@ -1,0 +1,164 @@
+*{
+    border: 0 px;
+    margin:0 px;
+    padding:0 px;
+}
+
+body{
+    background-color: rgb (131, 138, 141);
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20 px 61 px;
+    border: 1 px solid black;
+    background-color: blue;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb (160, 164, 164);
+    
+}
+
+a:hover{
+    color:black;
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    height: 75 px;
+    color: white;
+    font-size: 15 px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20 px;
+    
+}*{
+    border: 0 px;
+    margin:0 px;
+    padding: 0 px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20 px 61 px;
+    border: 1 px solid black;
+    background-color: blue;
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+li:hover{
+    background-color: rgb (160, 164, 164);
+    
+}
+
+a:hover{
+    color:black;
+}
+
+table{
+    background-color: white;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    height: 75 px;
+    color: white;
+    font-size: 15 px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20 px;
+    
+}*{
+    border: 0 px;
+    margin:0 px;
+    padding:0 px;
+}
+
+body{
+    background-color: rgb (230, 203, 173);
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 20 px 61 px;
+    border: 1 px solid black;
+    background-color: rgb (153, 100, 155);
+	
+}
+
+a{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+li:hover{
+    background-color: rgb (160, 164, 164);
+    
+}
+
+a:hover{
+    color:black;
+}
+
+table{
+    background-color:rgb (180, 167, 230);
+}
+
+footer{
+    background-color: rgb (107, 185, 162);
+    text-align: center;
+    height: 75 px;
+    color: rgb (8, 7, 7);
+    font-size: 15 px;    
+}
+
+.texto{
+    text-align: justify;
+    padding: 20 px;
+    
+}
